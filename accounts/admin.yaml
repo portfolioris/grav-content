@@ -1,0 +1,11 @@
+state: enabled
+email: joris@portfolioris.nl
+fullname: Admin
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$VQBiB0.3wLAVS5DxhOv8eurCxBjKSE.7nmf2h4FdID3tx13Gpgvyi
